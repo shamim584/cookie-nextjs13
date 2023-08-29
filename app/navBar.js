@@ -41,6 +41,27 @@ export function NavBar() {
                 </h2>
             </Link>
 
+            <Link
+                href="/redirection"
+                className={styles.card}
+            >
+                <h2>
+                    Redirection <span>-&gt; </span>
+                </h2>
+            </Link>
+
+            <Link
+                href="/header-modification"
+                className={styles.card}
+            >
+                <h2>
+                    Header Modification <span>-&gt; </span>
+                </h2>
+            </Link>
+
+
+
+
         </div>
 
 
